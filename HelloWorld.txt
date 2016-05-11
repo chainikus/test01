@@ -1,5 +1,6 @@
-print ..
-//
-3z строка кода
+print ..;
+//;
+3z строка кода;
 print(DCTV GHBDTN? XTTHNBBB)
-GLAD TO SEE YOU
+GLAD TO SEE YOU;
+
